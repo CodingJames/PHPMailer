@@ -164,6 +164,7 @@ Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.svg)](h
 If this isn't passing, is there something you can do to help?
 
 ## Security
+ถ้าใช้ Gmail ต้องเปิดให้อนุญาติ ความปลอดภัยน้อยก่อนึงจะส่งเมล์ได้ ตามลิ้งนี้ --> https://www.google.com/settings/u/0/security/lesssecureapps 
 
 Please disclose any vulnerabilities found responsibly - report any security problems found to the maintainers privately.
 
